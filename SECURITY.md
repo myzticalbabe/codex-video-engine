@@ -26,10 +26,10 @@ within 5 business days.
 
 Project_CODEX_VideoEngine is a ml-core component with the following security properties:
 
-1. **Minimal dependencies** — stdlib-only where possible
-2. **No network access** — unless explicitly required for the component's function
-3. **No arbitrary code execution** — does not eval or execute untrusted code
-4. **Input validation** — all external inputs validated at boundaries
+1. **Minimal dependencies** â€” stdlib-only where possible
+2. **No network access** â€” unless explicitly required for the component's function
+3. **No arbitrary code execution** â€” does not eval or execute untrusted code
+4. **Input validation** â€” all external inputs validated at boundaries
 
 ## Disclosure Policy
 

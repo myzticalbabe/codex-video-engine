@@ -25,10 +25,10 @@ Project_CODEX_VideoEngine **does not distribute**:
 
 If the component encounters sensitive data (secrets, keys, PII, proprietary code):
 
-1. **Stop** — do not commit, log, or report the sensitive data
-2. **Redact** — remove or hash the sensitive identifiers
-3. **Report** — notify the project maintainers via security@azazael.local
-4. **Verify** — ensure no sensitive data would be distributed
+1. **Stop** â€” do not commit, log, or report the sensitive data
+2. **Redact** â€” remove or hash the sensitive identifiers
+3. **Report** â€” notify the project maintainers via security@azazael.local
+4. **Verify** â€” ensure no sensitive data would be distributed
 
 ## Attribution
 
