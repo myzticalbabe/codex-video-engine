@@ -1,23 +1,31 @@
 cff-version: 1.2.0
-message: "If you use this software, cite it as below. If you cite a measured figure, cite the commit and the split it came from."
-title: "Project_CODEX_VideoEngine: Video generation with PIL/ffmpeg, CODEX Studio, CODEX Studio v3.1, scene management, animation patterns, batch generation."
-version: "0.1.0"
-date-released: "2026-11-14"
-license: "CDDL-1.1"
-type: software
-abstract: >-
-  Video generation with PIL/ffmpeg, CODEX Studio, CODEX Studio v3.1, scene management, animation patterns, batch generation.
+message: "If you use this software, please cite it as below."
 authors:
-  - name: "Azazael Contributors"
+  - family-names: "Azazael"
+    given-names: "Contributors"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Codex Video Engine: Video Generation Engine"
+version: 0.1.0
+doi: "10.5281/zenodo.XXXXXXX"
+date-released: 2026-11-18
+url: "https://github.com/myzticalbabe/codex-video-engine"
+preferred-citation:
+  type: "software"
+  authors:
+    - family-names: "Azazael"
+      given-names: "Contributors"
+  title: "Codex Video Engine: Video Generation Engine"
+  year: 2026
+  version: "0.1.0"
+  doi: "10.5281/zenodo.XXXXXXX"
+  url: "https://github.com/myzticalbabe/codex-video-engine"
 keywords:
-  - video-generation
-  - pil
-  - ffmpeg
-  - codex
-  - animation
-  - studio
-references:
-  - type: software
-    title: "Azazael Core"
-    notes: "Parent framework providing core infrastructure."
-    url: "https://github.com/myzticalbabe/azazael"
+  - "video"
+  - "generation"
+  - "ffmpeg"
+  - "html"
+  - "rendering"
+license: "CDDL-1.1"
+repository: "https://github.com/myzticalbabe/codex-video-engine"
+repository-code: "https://github.com/myzticalbabe/codex-video-engine"
+repository-artifact: "https://pypi.org/project/codex-video-engine/"
