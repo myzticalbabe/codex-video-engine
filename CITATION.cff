@@ -25,7 +25,7 @@ keywords:
   - "ffmpeg"
   - "html"
   - "rendering"
-license: "CDDL-1.1"
+license: "LicenseRef-SoulForge-1.0"
 repository: "https://github.com/myzticalbabe/codex-video-engine"
 repository-code: "https://github.com/myzticalbabe/codex-video-engine"
 repository-artifact: "https://pypi.org/project/codex-video-engine/"
